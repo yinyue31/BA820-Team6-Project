@@ -14,4 +14,7 @@
 - File: `Yue_Yin_Project_M2_BA820.ipynb`  
 
 **Xiaoxuan Zhu M2** 
-- File: `BA820_Team6_Project_M2_Xiaoxuan_Zhu.ipynb`  
+- File: `BA820_Team6_Project_M2_Xiaoxuan_Zhu.ipynb`
+
+**Yifan Han M2** 
+- File: `Yifan Han BA820_Team6_EDA_Pet_Cats_UK_(1).ipynb`
