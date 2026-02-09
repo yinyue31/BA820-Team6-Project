@@ -12,3 +12,6 @@
 
 **Yue Yin M2**  
 - File: `Yue_Yin_Project_M2_BA820.ipynb`  
+
+**Xiaoxuan Zhu M2** 
+- File: `BA820_Team6_Project_M2_Xiaoxuan_Zhu.ipynb`  
