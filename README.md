@@ -27,7 +27,7 @@
 
 ## Milestone 4: Individual Work
 
-**Xiaoxuan Zhu M2** 
+**Xiaoxuan Zhu M4** 
 - File: `BA820_Team6_Project_M4_Xiaoxuan_Zhu.ipynb`
 
 **Mudongfang Li M4** 
