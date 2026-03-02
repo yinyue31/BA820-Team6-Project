@@ -33,5 +33,5 @@
 **Mudongfang Li M4** 
 - File: `Mudongfang_Li_projectM4.ipynb`
 
-- **Yue Yin M4**
+**Yue Yin M4**
 - File: `Yue_Yin_Project_M4_BA820.ipynb`
